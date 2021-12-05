@@ -7,7 +7,7 @@ Map a randomly generated face onto an input video with [StyleGAN3](https://githu
 Highly recommended to run both notebooks on Google Colab with GPU on.
 
 ## Application
-When interviewing possible victims on the news, blurring their faces makes you lose emotional connection. Instead, map random faces onto their faces and preserve all facial movements!
+When censoring people's faces on media, blurring their faces makes you lose emotional connection. Instead, map random faces onto their faces and preserve all facial movements!
 
 ## Acknowledgements
 - [Alias-Free Generative Adversarial Networks (StyleGAN3)](https://nvlabs.github.io/stylegan3/)
